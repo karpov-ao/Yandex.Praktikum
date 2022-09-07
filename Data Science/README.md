@@ -3,7 +3,6 @@
 
 | Project name | Description | 
 | :-------| :-----------|
-
 | [Text analysis](https://nbviewer.jupyter.org/github/Danilov-Egor/Yandex_data_science/blob/main/projects/text.ipynb) | Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.|
 | [Postgre SQL](https://github.com/Danilov-Egor/Yandex_data_science/blob/main/projects/SQL.ipynb) | Важно понять предпочтения пользователей, покупающих билеты на разные направления. Вам предстоит изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали.|
 | [Computer vision](https://github.com/Danilov-Egor/Yandex_data_science/blob/main/projects/computer_vision.ipynb) | Постройте модель, которая по фотографии определит приблизительный возраст человека. В вашем распоряжении набор фотографий людей с указанием возраста.|# projects
