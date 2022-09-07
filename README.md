@@ -1,4 +1,4 @@
-# Yandex.Praktikum
+# [Yandex.Praktikum](https://practicum.yandex.ru/)
 Проекты выполненные в ходе обучения на платформе Яндекс.Практикум
 
 | Project name (clickable) | Description | 
