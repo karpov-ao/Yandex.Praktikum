@@ -1,11 +1,9 @@
 # Yandex.Praktikum
-### Below you can find projects that I completed 
 
-| Project name | Description | 
+| Project name (clickable) | Description | 
 | :-------| :-----------|
-| [Text analysis](https://nbviewer.jupyter.org/github/Danilov-Egor/Yandex_data_science/blob/main/projects/text.ipynb) | Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.|
-| [Postgre SQL](https://github.com/Danilov-Egor/Yandex_data_science/blob/main/projects/SQL.ipynb) | Важно понять предпочтения пользователей, покупающих билеты на разные направления. Вам предстоит изучить базу данных и проанализировать спрос пассажиров на рейсы в города, где проходят крупнейшие культурные фестивали.|
-| [Computer vision](https://github.com/Danilov-Egor/Yandex_data_science/blob/main/projects/computer_vision.ipynb) | Постройте модель, которая по фотографии определит приблизительный возраст человека. В вашем распоряжении набор фотографий людей с указанием возраста.|# projects
+| [Computer vision](https://github.com/karpov-ao/Yandex.Praktikum/blob/main/Data%20Science/computer_vision.ipynb) | Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов. Нужно построить модель, которая по фотографии определит приблизительный возраст человека.|
+| [ML For Texts](https://github.com/karpov-ao/Yandex.Praktikum/blob/main/Data%20Science/ml_for_texts.ipynb) | Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.|
 | [Time Series](https://github.com/karpov-ao/Yandex.Praktikum/blob/main/Data%20Science/time_siries.ipynb) | Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. |
 | [Numerical Methods](https://github.com/karpov-ao/Yandex.Praktikum/blob/main/Data%20Science/numerical_methods.ipynb) | Сервис «Не бит, не крашен» разрабатывает приложение, чтобы привлечь новых клиентов - в нём можно быстро узнать рыночную стоимость своего автомобиля. В нашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Нам нужно построить модель для определения стоимости. |
 | [Linear Algebra](https://github.com/karpov-ao/Yandex.Praktikum/blob/main/Data%20Science/linear_algebra.ipynb) | Нам нужно защитить данные клиентов страховой компании «Хоть потоп». Нужно разроботать такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. |
